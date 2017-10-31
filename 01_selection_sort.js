@@ -26,4 +26,4 @@ const selectionSort = (arr) => {
 	return newArr;
 };
 
-console.log(selectionSort([4, 2, 5, 3, 8, 7, 12, 9]));
+console.log(selectionSort([4, 2, 5, 3, 8, 7, 12, 9, 15]));
